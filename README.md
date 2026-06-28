@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Third Year **Artificial Intelligence & Data Science Student**
+- 🎓 Fouth Year **Artificial Intelligence & Data Science Student**
 - 📊 Currently working on **Data Analytics / Data Analysis Projects**
 - 🤖 Learning **Artificial Intelligence & Data Science**
 - 🧠 Exploring **Python for Data Analysis and Visualization**
